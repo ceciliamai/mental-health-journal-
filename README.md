@@ -23,17 +23,6 @@ Option 2: Host with GitHub Pages (Live Demo)
 A live demo is available at:  
 `https://ceciliamai.github.io/mental-health-journal-/`
 
-Tech Stack
-- HTML5
-- CSS3
-- Vanilla JavaScript
-- LocalStorage API (to save journal entries)
-
 Theme Alignment
 This project aligns with the hackathon theme of mental health and wellness by providing a free, accessible tool for users to reflect on their emotional well-being.
 
-AI Usage
-AI was only used for:
-- Debugging small CSS/JS errors
-- Formatting this README.md file
-Total AI assistance is under 30% of the project work.
