@@ -21,7 +21,7 @@ Option 1: Open directly in your browser
 
 Option 2: Host with GitHub Pages (Live Demo)
 A live demo is available at:  
-`https://ceciliamai.github.io/mental-health-journal-/`
+ https://ceciliamai.github.io/mental-health-journal-/
 
 Theme Alignment
 This project aligns with the hackathon theme of mental health and wellness by providing a free, accessible tool for users to reflect on their emotional well-being.
